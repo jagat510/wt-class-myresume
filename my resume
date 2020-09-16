@@ -1,0 +1,87 @@
+
+<html>
+<head>
+ <title > MY RESUME</title>
+</head>
+<center>
+<H1><i><u> My Resume</i></u></h1>
+</Center>
+<img src="https://jntuacea.net/wtclass/photos/18/18001A0511_1993.jpg" width="150" height="150" align="right"/>
+  <H6><b>D JAGADEESH</b></H6>
+  <H6><b> e-mail:dombarajagadeesh2001@gmail.com</b></H6>
+   <H6><b>contact no: 6303581338</b></H6>
+<h5><u>CAREER OBJECTIVE:</u></h5>
+  <p><font size="3">To work in a good organization  which provides me the opportunity to improve my technical skills and knowledge</font></p>
+<h4><u>ACADEMIC QUALIFICATIONS:</u></h4>
+<table border="5" width="1000">
+<tr>
+<th>level of qualification</th>
+<th>Name of institute</th>
+<th>percentage of marks</th>
+<th>Year of passing</th>
+</tr>
+<tr>
+<th>10th class</th>
+<th>RAVINDRA HIGH SCHOOL</th>
+<th>95%</th>
+<th>2016</th>
+</tr>
+<tr>
+<th>inter</th>
+<th>NARAYANA JUNIOR COLLEGE</th>
+<th>97%</th>
+<th>2018</th>
+</tr>
+<tr>
+<th>BTECH</th>
+<th>JNTU COLLEGE OF ENGINEERING ANANTAPUR</th>
+<th>70%</th>
+<th>2022</th>
+</tr>
+</table>
+<h5><u>MY TECHNICAL SKILLS:</u></h5>
+<big>
+<ul>
+<li>MS-OFFICE</li>
+<li>C LANGUAGE</li>
+<li>java</li>
+<li>C++</li>
+</big>
+</ul>
+<u>MY PERSONAL DETAILS:</U>
+</h5>
+<font size="6">
+<pre>
+     Name             :  D Jagadeesh
+     Father's Name    :  D Seshadri
+     GENDER           :  MALE
+     Nationality      :  Indian
+     Date of Birth    :  28/07/2001
+     Address          :Door no:5/125-a
+   M.Thimmapuram(v),Mahanandi(M),Nandyal(T)
+     Languages Known  :  English and Telugu
+</pre>
+</font>
+<h5><u>MY STRENGTHS:</u></h5>
+<ul>
+<big>
+<li>Quick learning Skills </li></big>
+<big><li>Positive mindset</li></big>
+<big><li>Management Skills</li></big>
+</big><li>Computer Skills</li>
+</big>
+</ul>
+</font>
+<h5><u>HOBBIES:</u></h5>
+<ul>
+    <li>watching movies</li>
+    <li>cooking</li>
+    <li>photography</li>
+    <li>editing</li>
+</ul>
+<h5><u>Declaration</u></h5>
+    <ul>
+   <li>I declaring myself all about details are belongs to me genuinely correct and I will face further problems if anything went wrong</li>
+    </ul>
+ </body>
+</html>
