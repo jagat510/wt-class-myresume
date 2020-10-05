@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lan="en">
+	<head>
+		<title>FORM TAG</title>
+	</head>
+	<body>
+
+		<form action="https://jntuacea.net/wtclass/formsubmit.php" method="get">
+			<label for "NAME">Enter Name:</label><input type="text" name="NAME" id="Name" maxlength="20"  placeholder="Enter your name here..."  pattern="[a-zA-Z]{5,20}" required="required" value="Jaswanth" title="name should always begin with letter and should be of max 20 characters "/><br/>	
+			<label for "ADMN NO.">Enter Admn no.</label><input type="text" name="ADMN NO" pattern="18001A05[0-9][0-9]" maxlength="10" placeholder="18001A0537"/><br/>
+
+		password:<input type="password" name="pwd"/><br/>
+		CSE SUBJECTS:
+			     <input type="radio" name="CSE SUBJECTS" value="WEB TECHNOLOGIES"/>WEB TECHNOLOGIES<br/>
+			     <input type="radio" name="CSE SUBJECTS" value="C LANGUAGE"/>C LANGUAGE<br/>
+			     <input type="radio" name="CSE SUBJECTS" value="COMPILER DESIGN"/>COMPILER DESIGN<br/>
+			     <input type="radio" name="CSE SUBJECTS" value="COMPUTER NETWORKS"/>COMPUTER NETWORKS<br/>
+			     <input type="radio" name="CSE SUBJECTS" value="DATA MINING"/>DATA MINING<br/>
+			
+		Address:
+		<textarea name="Adress" placeholder="Enter your address here..." rows="6" cols="60"></textarea><br/>
+		IPL:
+	        <input type="checkbox" name="IPL[]" value="RCB"/>RCB<br/>
+		<input type="checkbox" name="IPL[]" value="MI"/>MI<br/>
+		<input type="checkbox" name="IPL[]" value="SRH"/>SRH<br/>
+		<input type="checkbox" name="IPL[]" value="CSK"/>CSK<br/>
+		<input type="checkbox" name="IPL[]" value="DC"/>DC<br/>
+	        <input type="checkbox" name="IPL[]" value="RR"/>RR<br/>
+		<input type="checkbox" name="IPL[]" value="KXIP"/>KXIP<br/>
+		<input type="checkbox" name="IPL[]" value="KKR"/>KKR<br/>
+		BRANCH:
+			<select name="BRANCH">
+			<option value="CSE">CSE</option>
+			<option value="ECE">ECE</option>
+			<option value="EEE">EEE</option>
+			<option value="CIVIL">CIVIL</option>
+			<option value="MECH">MECH</option>
+			<option value="CHEMICAL">CHEMICAL</option>
+			<option value="NONE">NONE</option>
+
+		</select>
+		<br/>
+		<input type="submit" value="Go"/><br/>
+
+		</form>
+		
+		<form action="https://google.co.in/search" method="get">
+		        Google Search:<input type="text" name="q">
+			<input type="submit" name="btn" value="Google Search">
+		</form>
+	</body>
+
+
+
+
+<
